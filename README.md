@@ -1,4 +1,7 @@
 # Interface e jornada do usuário
+Nomes:
+Osvaldo Ramalho de Sousa Junior - RGM: 45949271
+Ítalo Guilherme Rodrigues de Carvalho - RGM: 46002570
 
 Link do protótipo para visualização: https://www.figma.com/proto/7AjkuhGwvV1GdwLKMosSNv/Celular---conversas?node-id=3-26&p=f&t=FZfWbiKikqM0FRfY-1&scaling=scale-down&content-scaling=fixed&page-id=3%3A25&starting-point-node-id=3%3A48&show-proto-sidebar=1&hotspot-hints=0
 
