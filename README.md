@@ -1,6 +1,6 @@
 # Interface e jornada do usuário
 
-Link do arquivo para visualização:https://www.figma.com/design/7AjkuhGwvV1GdwLKMosSNv/Celular---conversas?node-id=3-25&t=wDl9eveueFoXNOjD-1
+Link do protótipo para visualização: https://www.figma.com/design/7AjkuhGwvV1GdwLKMosSNv/Celular---conversas?node-id=3-25&t=wDl9eveueFoXNOjD-1
 
 Protótipo de Interfaces Interativas
 Preparamos este protótipo composto por três tipos de interfaces: um aplicativo de rede social, um de banco e outro de mensagens.
