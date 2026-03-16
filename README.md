@@ -12,4 +12,4 @@ Neste protótipo, nomeado como System People App, incluímos um sistema de cadas
 Batizada de Wilton Banco, esta interface permite visualizar o saldo da conta, conferir valores de faturas e realizar transferências via Pix. O diferencial é a praticidade: o sistema foi desenhado para que o usuário consiga concluir uma transferência com apenas três cliques.
 
 3. Interface de Mensagens
-Nesta interface, focamos na funcionalidade e agilidade. O usuário tem acesso rápido à sua lista de contatos salvos e a um chat privado para a troca de mensagens com extrema praticidade e segurança.
+Nesta interface, focamos na funcionalidade e agilidade. O usuário tem acesso rápido à sua lista de contatos salvos e a um chat privado para a troca de mensagens com extrema praticidade.
